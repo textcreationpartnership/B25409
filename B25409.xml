@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An arrest on the East India privatier as per advice and copy sent to its commander Sr. J. C. from H. K. near Hamburgh.</title>
+            <author>H. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25409</idno>
+            <idno type="STC">Wing K10</idno>
+            <idno type="EEBO-CITATION">99829211</idno>
+            <idno type="PROQUEST">99829211</idno>
+            <idno type="VID">207116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B25409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207116)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1990:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An arrest on the East India privatier as per advice and copy sent to its commander Sr. J. C. from H. K. near Hamburgh.</title>
+                  <author>H. K.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing; dated at foot of A1r: 16 Sept. 1681.</note>
+                  <note>"Reasons for constituting a new East-India Company in London" has caption title on A1v.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207116:1"/>
+            <pb facs="tcp:207116:1" rendition="simple:additions"/>
+            <head>AN ARREST On the Eaſt <hi>INDIA</hi> PRIVATIER, <hi>As per Advice and Copy ſent to its Commander Sr.</hi> J. C. <hi>from</hi> H. K. <hi>near</hi> HAMBURGH.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>SEnſe as well of your Worth as of my Obligation to you being a con<g ref="char:EOLhyphen"/>ſtant Spring of deſire in me to ſubſerve your <hi>Inclination</hi> and <hi>Intereſt,</hi> I could not let ſlip this Occaſion given me (as opportune as caſual) to ſerve them in the Information of an Arreſt hereunto annexed; If the Original thereof be, as I hear it is, deſigned for <hi>Royal</hi> View and Judgment, excluſive of all other, I have thwarted them, and gratified you by motion equally unexpected and hidden to both.</p>
+            <p>Tho the <hi>end</hi> and <hi>motive</hi> of this <hi>Miſſion</hi> be obvious in the Reaſon of the thing ſent, yet ſomewhat I may ſay to each of them. The <hi>Aim</hi> or End there<g ref="char:EOLhyphen"/>of is, to propagate <hi>Philopatriaſm,</hi> and to ſtate and promote the real <hi>Intereſt</hi> of our <hi>King and Nation in Trade,</hi> particularly in that of Eaſt <hi>India;</hi> next to ſerve your Intereſt and Inclination too, if <hi>Philopatris</hi> be Name and Nature: for walking Exactly, and being a Common good is <hi>Wiſdom</hi> and <hi>Satisfaction</hi> in <hi>Philopatria</hi> and <hi>Theoprepia;</hi> as being Rich and growing in Contraction is, in <hi>Argentoria:</hi> Only with this difference, the former is <hi>real</hi> and <hi>everlaſting,</hi> the later a <hi>Dream</hi> and muſt <hi>ſoon</hi> awake <hi>Fools</hi> in for<g ref="char:EOLhyphen"/>lorn <hi>deſpair.</hi> The <hi>Motive</hi> thereof, (beſide what hath been ſaid) was the late <hi>practiſe</hi> of printing the Allegations of the Turkey Merchants pre<g ref="char:EOLhyphen"/>ſented to the view and judgment of His Majeſty in Council, (excluſive of all other) without their conſent. A matter you are concerned in, and in which you ſee your Example doth diſpoſe to Imitation; ſince by ſpeci<g ref="char:EOLhyphen"/>al contrivance and ſundry <hi>&amp; caetera's</hi> you are in effect the whole Eaſt <hi>India</hi> Company. If you now ſail in Morals, One will be induced to <hi>aſſert mani<g ref="char:EOLhyphen"/>feſted un-truths before Councils,</hi> and tender his <hi>Oath</hi> thereto. Another will <hi>open</hi> ſealed <hi>Letters</hi> and <hi>read Contents</hi> neither directed nor appertaining to him. A third will utter <hi>Contradiction</hi> or Falſhood in print: e.g. <hi>Anſwer to Al<g ref="char:EOLhyphen"/>legations</hi> pag. 12. which ſaith, <hi>As to the Accuſation of ſending Throwſters, Wea<g ref="char:EOLhyphen"/>vers, and Dyers, the Eaſt</hi> India <hi>Company ſay, the whole Accuſation is a miſtake,</hi> (i. e. they never ſent any) <hi>except only as to one or two Dyers, which they have uſually ſent to the Bay of</hi> Bangala, <hi>i.e.</hi> tho they <hi>uſually</hi> (ſo oft as their Ships go) ſend them by <hi>one's</hi> or by <hi>two's</hi> yet they ſend none; Riddle me what's this? Tho other prettyneſſes be in the <hi>Anſ.</hi> yet in that they are but ſmall, a ſin<g ref="char:EOLhyphen"/>gle winding ſheet may ſerve them. This you ſee is fill'd already with Con<g ref="char:EOLhyphen"/>tents ſufficient to teſtifie that I am a True <hi>Philopatrite,</hi> and without Trope or Complement,</p>
+            <closer>
+               <dateline>
+                  <date>16 <hi>Sept.</hi> 1681.</date>
+               </dateline>
+               <signed>Your Affect. and Faithf. Serv. <hi>H.K.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:207116:2" rendition="simple:additions"/>
+            <head>REASONS For Conſtituting a New EAST-INDIA COMPANY IN LONDON.</head>
+            <p>
+               <hi>COmmunities,</hi> i. e. humane Beings collected for common good, or Bodies politick are beſt repreſented by the <hi>Body natural.</hi> And <hi>Trade,</hi> as means to the Life, the ſtrength, and beauty thereof, may be reſembled to <hi>good blood</hi> in it; which in <hi>circulation</hi> is the chief Succour and Health of the whole, and with moſt ſpeed runs to relieve the wounded or <hi>meaneſt</hi> part; When therefore upon any Stop, be it by <hi>contraction</hi> or other<g ref="char:EOLhyphen"/>wiſe, we ſeek to remove the obſtruction, or apply for regu<g ref="char:EOLhyphen"/>lar motion, we do not endanger the Trade, but ſubſerve it, and the proſperity of the Community: As, we hope, will ap<g ref="char:EOLhyphen"/>pear when our <hi>Reaſons</hi> (moſt humbly offered) are conſi<g ref="char:EOLhyphen"/>dered.</p>
+            <p>
+               <hi>Why a new Subſcription unto a Joynt-Stock to be managed by a regulated Company will improve the Trade of the</hi> Eaſt Indies <hi>unto National Advantage beyond what it is at preſent?</hi>
+            </p>
+            <p n="1">
+               <hi>REASON</hi> I. Becauſe though <hi>this</hi> Trade, once but the <hi>Fortieth,</hi> be now increaſed to be in value <hi>the Fourth</hi> part of the
+<pb n="3" facs="tcp:207116:2"/>Trade of this Nation, yet it doth now ſupport, or entertain <hi>fewer</hi> perſons as Proprietors, than it did when the Company was <hi>firſt</hi> ſettled. The <hi>Stock</hi> not being encreaſed by new Sub<g ref="char:EOLhyphen"/>ſcriptions in proportion to the Trade; for continuing 375000 <hi>l.</hi> (upon which all Sales and Dividends are made) the Adventurers inſtead of being increaſed to 9000 proportionable thereto, are re<g ref="char:EOLhyphen"/>duced from 900 as they were at firſt, to 550. Now as <hi>Joynt</hi> is re<g ref="char:EOLhyphen"/>quiſite to make a Stock in this Trade <hi>profitable,</hi> ſo <hi>extenſion to Perſons</hi> is neceſſary to make it <hi>National.</hi>
+            </p>
+            <p n="2">II. Such are the <hi>CORR<g ref="char:V">Ʋ</g>PTIONS,</hi> grown up with time in the management of this Trade, that the <hi>major</hi> part of the <hi>Gains</hi> is divided among <hi>Forty</hi> men, and the whole Adminiſtra<g ref="char:EOLhyphen"/>tion or <hi>Command</hi> in the hands of <hi>Ten,</hi> I had almoſt ſaid <hi>One</hi> man; Whence a <hi>Particular</hi> Intereſt is carried on under the name of a <hi>Publick.</hi>
+            </p>
+            <p n="3">III. The Method now uſed in carrying on the Trade, by ta<g ref="char:EOLhyphen"/>king up 6 to 700000 <hi>l.</hi> on a Common Seal, at <hi>Intereſt,</hi> (no Member of the Company being oblig'd for payment) is not only <hi>indirect</hi> &amp; <hi>dangerous</hi> (in that they ſeldom have in <hi>England</hi> near the value they owe, and there is a poſſibility their Ships may miſcarry) but alſo very <hi>unequal</hi> to the Subject. The <hi>Com<g ref="char:EOLhyphen"/>pany</hi> reaping from 50 to 60 <hi>per Cent.</hi> profit thereby; whereas the <hi>Lenders</hi> have but 3 or 4 <hi>per Cent</hi> for <hi>Intereſt</hi> and <hi>Hazard.</hi>
+            </p>
+            <p n="4">IV. The Major part of Merchants and many other people of our Nation are <hi>excluded Trade,</hi> if not admitted into This. Some being Minors or unborne when this Company was ſetled, and others have their Trades ſwallowed up by This; As <hi>Linens</hi> from <hi>Hambrough, Flanders, Holland</hi> and <hi>France; Taffeties</hi> from <hi>Italy</hi> and <hi>France,</hi> and in part <hi>our Manufacture</hi> at home.</p>
+            <p n="5">V. This Company, finding great Gaines by appropriating this Trade to a <hi>few,</hi> do <hi>hinder</hi> the <hi>Inlarging</hi> thereof to ſundry Places in <hi>India,</hi> &amp;c. to which nothing can conduce more, than the inlarging of Stock and number of Perſons therein. It be<g ref="char:EOLhyphen"/>ing certain that if it were ſo increaſed to two Millions (of which the Trade is capable) and a Regulation anſwerable, it would
+<pb n="4" facs="tcp:207116:3"/>employ, as more Men and Ships in the <hi>Indies,</hi> ſo in all other places of this Trade; Augment Cuſtom to his Majeſty, and be of great advantage to his People in general.</p>
+            <p n="6">VI. It agreeth, as with the <hi>Argument</hi> uſed to obtain a Grant of this Charter, ſo with their <hi>Preamble</hi> or the Act of a Gene<g ref="char:EOLhyphen"/>ral Court, <hi>viz.</hi> That they ſhould at the end of <hi>ſeven years ballance their Books, and open them for new Subſcriptions:</hi> A thing they never yet did, except in ſuch ſallacious ways, that no one perſon, upon reaſonable Terms, could go in or out. By which, be it neglect or deceit, they keep Supſcription from us: although it be our indubitable Right, if not in the intent of their Act, yet, in the <hi>Intendment</hi> of his <hi>Majeſtie's Grant,</hi> as it was the <hi>Motive</hi> of it.</p>
+            <p n="7">VII. The <hi>Primitive Practiſe</hi> of this Company and the <hi>Reaſon</hi> thereof requireth now a <hi>New Subſcription.</hi> For when 750000 <hi>l.</hi> was at firſt ſubſcribed, the half only was paid, being as much as the Trade then required. The ſame reaſon, now two Millions is requiſite, doth direct unto the way for Supply, not by <hi>borrowing,</hi> but by <hi>opening</hi> for Subſcriptions: This be<g ref="char:EOLhyphen"/>ing the moſt <hi>natural,</hi> becauſe primitive, way for it. And whereas this Company take Money at Intereſt, and decline calling in the other half ſubſcribed by their own Members; it ſhews that the Regency is in them, who have abſolutely ſub<g ref="char:EOLhyphen"/>jected every thing to their own particular Intereſt.</p>
+            <p n="8">VIII. Whereas it is unuſual to allow, as Motive or Reward, unto Invention or Diſcovery, other than ſome certain Term of 10 to 15 or 20 years: Yet this Company, though not Diſcover<g ref="char:EOLhyphen"/>ers of this Trade, have enjoyed it 24 years (in 10 of which they made 7 for 1 of their Money) which may be conceived ſufficient Reward for what Service they pretend to have done their Countrey.</p>
+            <p n="9">IX. If by opening this Trade to <hi>JAPAN,</hi> to <hi>CHINA,</hi> or otherways, it ſhould become double or treble what it is, moſt likely, without a new Settlement, the deſire of <hi>Gain</hi> will then effect a Paucity of Adventurers (the natural Effect of this Cauſe which uſually increaſeth as a Gainful Object is increaſed) It
+<pb n="5" facs="tcp:207116:3"/>having gradually ſo done ſince the time it began to advance in <hi>Anno</hi> 1666. For no man had of this Trade 4000 <hi>l</hi> value in <hi>An<g ref="char:EOLhyphen"/>no</hi> 1665, but now ſome have 40000, others 50000, another 100000 <hi>l.</hi> in it. Of like produce the deſire of <hi>Security</hi> will be, in that an Ingroſs of the Stock giving them the Management, they will have for their Security the <hi>Stock</hi> and the <hi>Nations Mo<g ref="char:EOLhyphen"/>ney,</hi> borrowed on a Common Seal; which upon Misfortune af<g ref="char:EOLhyphen"/>fects not their Particular.</p>
+            <p n="10">X. Many Perſons, partly through decay of other Trades, but chiefly to bring <hi>This</hi> to a <hi>Reaſonable and National Settlement</hi> in a Joynt Stock, have engaged in <hi>Interloping;</hi> who having met with Profit, will ſcarce deſiſt that way, unleſs this be opened to them. And ſhould they be denyed Freedom to unlade and ſell here, their going to Foreign Ports may excite to that which in the Iſſue may divert in part or otherwiſe prejudice the <hi>India</hi> Trade of this Kindom. To obviate which Miſchief (by the two Ships now ſo imployed) it ſeems requiſite to give them admit<g ref="char:EOLhyphen"/>tance here. Whereby His Majeſty will receive his Cuſtomes; and the Interlopers by being Subſcribers into the New Joynt Stock or by other means (when they are here beſt to be uſed) may be prevented for the Future. And we conceive the Equity and Uſefulneſs of ſuch a New Charter as makes the Trade Natio<g ref="char:EOLhyphen"/>nal, will give it the <hi>Force of Law,</hi> an effectual Bar to Interlo<g ref="char:EOLhyphen"/>ping, which the preſent cannot be, becauſe it incloſeth Trade not <hi>for,</hi> but <hi>from the People;</hi> and being pernicious to the Kingdom, whoſo ſhall practiſe as theſe do with it, are <hi>indict<g ref="char:EOLhyphen"/>able</hi> at Common Law.</p>
+            <p n="11">XI. It will be very ſevere that the <hi>Turkey Merchants</hi> ſhould have no Admittance into <hi>this,</hi> ſo like to ruin <hi>theirs;</hi> when they have deſerved well, by carrying on a Trade which (though leſs Profitable to themſelves) Exporteth yearly of <hi>Our Manufacture</hi> 400000 <hi>l.</hi> and Importeth Goods for a farther <hi>Manufaction,</hi> whereby the Nation gaineth 600000 <hi>l. per annum.</hi>
+            </p>
+            <p n="12">XII. <hi>Admiſſion into this Trade</hi> any other way will be either <hi>difficult,</hi> or as <hi>none</hi> unto the purpoſe of <hi>general ſatisfaction and Intereſt;</hi> As <hi>Purchaſe</hi> is, being when and at what Price the Sel<g ref="char:EOLhyphen"/>ler
+<pb n="6" facs="tcp:207116:4"/>will, like to that of <hi>Lands:</hi> Whereby the approved and uſual allowed <hi>freedom</hi> of Admiſſion into Trade is <hi>deſtroyed.</hi> Alſo Experience ſheweth, that ſince the advance of this Trade the great Sharers therein accumulate more and more; it is only ſome ſmall Sums in Sale eſcape their hands. And if more did, it would be but the exchange of AB for CD. A thing not ſubſer<g ref="char:EOLhyphen"/>ving the King's or Kingdom's Intereſt in addition of Stock, or of number to Perſons in this Trade. And in that it is by Purchaſe and not by his Majeſties <hi>Grace,</hi> our Loyal Hearts reſent it, as <hi>A grievous common Nuſance.</hi> The rather, for that the moſt <hi>needy</hi> of his Royal Help (who be the Objects of his Pity) are for ever <hi>excluded,</hi> becauſe they have not Money to buy 100 <hi>l.</hi> at the Rate it now goes; and a leſs Sum, original Stock, is ſeldom, if ever, to be met with.</p>
+            <p n="13">XIII. This Company as well by ſending to Eaſt <hi>India, Dyers, Weavers,</hi> and <hi>Throwſters, with Inſtruments for the ſetting up of Manufactures abroad,</hi> as by the contraction of this Trade to few Perſons, the inequality which ariſeth by carrying on the Trade with Money at Intereſt, Their <hi>private Trade,</hi> their <hi>own<g ref="char:EOLhyphen"/>ing of Ships</hi> (which chiefly belong to a few of them) their refu<g ref="char:EOLhyphen"/>ſing to inlarge the Stock by new Subſcriptions, and by other un<g ref="char:EOLhyphen"/>due practiſes at home, are <hi>degenerated</hi> form their Primitive Nature, and have <hi>perverted,</hi> to particular advantage, his <hi>Maje<g ref="char:EOLhyphen"/>ſties Charter</hi> granted for general Good: therefore ought not to be continued <hi>Sole</hi> Poſſeſſors of ſo profitable a Trade, in <hi>oppoſiti<g ref="char:EOLhyphen"/>on</hi> to the deſire and Intereſt of the <hi>Nation</hi> in general; as it is to the Opinion and Conſent of the Majority of <hi>themſelves</hi> in par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p n="14">XIV. As by Contraction the Company do <hi>rob</hi> his <hi>Majeſty</hi> of his Treaſure in this Stock, <hi>ſcilicet,</hi> the Perſons and Good of his People in general, ſo by long continuance have well nigh forgot his Majeſty's Favour, the <hi>Nature of their Tenure.</hi> This Trade they deem as their Money, and name it <hi>their Perſonal Eſtate,</hi> in bar of the <hi>great Charter</hi> by which a People depend on their Prince as a <hi>Common Father.</hi> Whereby, obſcuring or obſtructing his Majeſty's Beneficence, they cool the <hi>fervour</hi> of his Subjects Affection and Duty to him.</p>
+            <pb n="7" facs="tcp:207116:4"/>
+            <p n="15">XV. The preſent <hi>Conjuncture is opportune</hi> for the terminati<g ref="char:EOLhyphen"/>on of this Company, As well in reference to Affairs abroad, as at home; Our Neighbours not being in a Condition to take Ad<g ref="char:EOLhyphen"/>vantage thereof: and at home want of Employment for the nu<g ref="char:EOLhyphen"/>merous People that have of late applyed themſelves, their Stocks, and Ships to Trade.</p>
+            <p n="16">XVI. As all <hi>paſt terminating</hi> of Old and <hi>conſtituting</hi> of New Companies have been advantagious to this Trade; ſo the pre<g ref="char:EOLhyphen"/>ſent deſired will be, if a good Regulation be made (as is intend<g ref="char:EOLhyphen"/>ed) to prevent in a New the Defections of the Old Company. Until this be done (by new ſubſcribing two Millions, <hi>&amp;c.</hi>) the preſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt may go on with the Trade, in connexion with ſetching off their Effects in <hi>India;</hi> As is eaſily and ſoon done, becauſe they ſeldom, if ever, have any thing there beſide Forts, <hi>&amp;c.</hi> (call'd a Dead Stock) which muſt always remain to ſucceeding Companies. And then the <hi>through change</hi> of the Company will endanger the Trade no more than that annually made, of committees; Nor diſcommode it otherwiſe than the <hi>Old well<g ref="char:EOLhyphen"/>grown Tree</hi> is by lopping its exuberant Branches, or opening its Root for freſh Supplies of Water.</p>
+            <p n="17">XVII. At the <hi>Original Settlement</hi> of all <hi>India</hi> Companies, (be<g ref="char:EOLhyphen"/>cauſe the <hi>Motive,</hi> as the <hi>End</hi> thereof, is <hi>general good</hi>) no man is <hi>excluded</hi> but by his <hi>own Act,</hi> which ought to be <hi>perpetuated</hi> to us, though cannot, unleſs we determine Old and conſtitute New, ſo frequent as is conſiſtent with the <hi>Being</hi> of this Trade, and its profitable <hi>continuance</hi> with us. Wherefore the preſent Company if continued cannot do other than violate, unto Nati<g ref="char:EOLhyphen"/>onal Perdition (as too far already it hath done) the <hi>Rule</hi> and the <hi>End</hi> of <hi>Incorporating</hi> of Trades; for that the Men who frame the trading part of the Nation are in 24 years ſo changed that they be, as it were, a <hi>new</hi> Generation.</p>
+            <p n="18">XVIII. In <hi>Charters</hi> granted by <hi>Kings,</hi> wherein Trades are Incorporated to a number of Subjects named, th' <hi>Intention</hi> is not particular, but to them in <hi>truſt</hi> for the general Good. The like juſt Wiſdom and Grace of his Majeſty is expreſt in the Grant to this Eaſt <hi>India</hi> Company, for his Charter ſaith, When <hi>it
+<pb n="8" facs="tcp:207116:5"/>either in whole or in part becometh unprofitable to him or the Realm that then and from thenceforth (after three years warn<g ref="char:EOLhyphen"/>ing) it ſhall expire to all intents and purpoſes.</hi>
+            </p>
+            <p n="19">XIX. If <hi>Examples</hi> be of force, we have <hi>many</hi> of Compa<g ref="char:EOLhyphen"/>nies which had their Determination for publick good, though they reaped not what they ſowed; which, if particular Inte<g ref="char:EOLhyphen"/>reſt muſt be conſidered, will be found much ſeverer than to have this Eaſt <hi>India</hi> Company expire after ſo profitable an enjoy<g ref="char:EOLhyphen"/>ment, and ſo <hi>long.</hi>
+            </p>
+            <p n="20">XX. If the <hi>Trade</hi> of this <hi>Nation</hi> were Incorporated and <hi>con<g ref="char:EOLhyphen"/>tracted</hi> as this to <hi>India</hi> is, it would ſoon <hi>periſh,</hi> for that the whole then, in proportion to this, would inrich only 160 per<g ref="char:EOLhyphen"/>ſons, and maintain, as Adventurers or Traders, not above 2000. Now if ſuch an Incorporating would have very ill Effect in the whole, the Contraction in this great Trade of Eaſt <hi>India,</hi> muſt in ſome proportion be of ill effect to it, and as conſequent, on the Glory and Proſperity of our Nation.</p>
+            <p>
+               <hi>To ſhew that our Deſign is not to deſtroy, we are ready, and ſhall, if thought fit, publiſh a Form of Settlement agreeing with the aboveſaid Ends.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207116:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
